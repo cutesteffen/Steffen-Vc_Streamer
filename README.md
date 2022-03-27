@@ -1,5 +1,5 @@
-# ALBYVIDEOPLAYERBOT
-Telegram bot to stream videos in telegram voicechat for both groups and channels. Supports live streams, YouTube videos and telegram media. With record stream support, Schedule streams, and many more.
+# Steffen-Vc_Streamer
+This is the advanced bot to stream the video of any platforms in telegram vc. By using this bot you can stream movies , cricket matches , netflix webseries , youtube videos , any mp4 file with lag free and meloady environment with record stream support, Schedule streams, and many more functions .
 
 ## Config Vars:
 ### Mandatory Vars
@@ -19,7 +19,7 @@ Telegram bot to stream videos in telegram voicechat for both groups and channels
 ### Optional Vars
 1. `LOG_GROUP` : Group to send Playlist, if CHAT is a Group()
 2. `ADMINS` : ID of users who can use admin commands.
-3. `STARTUP_STREAM` : This will be streamed on startups and restarts of bot. You can use either any STREAM_URL or a direct link of any video or a Youtube Live link. You can also use YouTube Playlist.Find a Telegram Link for your playlist from [PlayList Dumb](https://telegram.dog/DumpPlaylist) or get a PlayList from [ALBINPRAVEEN](https://telegram.dog/i_am_albin_ptaveen).
+3. `STARTUP_STREAM` : This will be streamed on startups and restarts of bot. You can use either any STREAM_URL or a direct link of any video or a Youtube Live link. You can also use YouTube Playlist.Find a Telegram Link for your playlist from [PlayList Dumb](https://telegram.dog/DumpPlaylist) .
 4. `REPLY_MESSAGE` : A reply to those who message the USER account in PM. Leave it blank if you do not need this feature. (Configurable through bot if mongodb added.)
 5. `ADMIN_ONLY` : Pass `True` If you want to make /play command only for admins of `CHAT`. By default /play is available for all.(Configurable through bot if mongodb added.)
 6. `DATABASE_NAME`: Database name for your mongodb database.
@@ -75,3 +75,10 @@ python3 main.py
 - Starts Radio after if no songs in playlist.
 - Automatic restart even if heroku restarts. (Configurable)
 - Support exporting and importing playlist.
+
+# Credits 💖
+
+- [Steffen](https://github.com/cutesteffen)
+
+### Support & Updates 🎑
+<a href=""><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/STEFFEN_VC_BOT_CHANNEL"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
