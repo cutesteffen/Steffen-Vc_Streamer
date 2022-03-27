@@ -1,7 +1,7 @@
 {
-    "name": "AKBYVIDEOMUSIC",
-    "description": "Telegram bot to stream video in telegram VC",
-    "repository": "https://github.com/albinpraveen/AlbyVideoPlayer",
+    "name": "Steffen-Vc_Streamer",
+    "description": "Advanced Telegram bot to stream videos of any platform  in telegram VC with lag free and sweet environment",
+    "repository": "https://github.com/cutesteffen/Steffen-Vc_Streamer",
     "stack": "container",
     "keywords": [
       "telegram",
