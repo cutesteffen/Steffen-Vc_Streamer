@@ -52,8 +52,8 @@ This is the advanced bot to stream the video of any platforms in telegram vc. By
 ## Deploy to VPS
 
 ```sh
-git clone https://github.com/ALBINPRAVEEN/AlbyVideoPlayer
-cd AlbyVideoPlayer
+git clone https://github.com/cutesteffen/Steffen-Vc_Streamer
+cd Steffen-Vc-Streamer
 pip3 install -r requirements.txt
 # <Create Variables appropriately (.env [optional])>
 python3 main.py
