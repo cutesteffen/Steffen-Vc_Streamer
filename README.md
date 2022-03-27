@@ -47,7 +47,7 @@ This is the advanced bot to stream the video of any platforms in telegram vc. By
 
 ## Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ALBINPRAVEEN/AlbyVideoPlayer)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cutesteffen/Steffen-Vc_Streamer)
 
 ## Deploy to VPS
 
